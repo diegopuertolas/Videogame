@@ -11,5 +11,5 @@ public abstract class Character
         Life = life;
     }
 
-    public abstract string GetDescription();
+    public abstract void GetDescription();
 }
